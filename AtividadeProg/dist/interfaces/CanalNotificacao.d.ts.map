@@ -1,0 +1,1 @@
+{"version":3,"file":"CanalNotificacao.d.ts","sourceRoot":"","sources":["../../src/interfaces/CanalNotificacao.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,oBAAoB,CAAC;AAElD,MAAM,WAAW,gBAAgB;IAC7B,MAAM,CAAC,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,GAAG,IAAI,CAAC;CACpD"}

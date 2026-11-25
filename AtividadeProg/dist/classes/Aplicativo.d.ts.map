@@ -1,0 +1,1 @@
+{"version":3,"file":"Aplicativo.d.ts","sourceRoot":"","sources":["../../src/classes/Aplicativo.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,gBAAgB,EAAE,MAAM,gCAAgC,CAAC;AACvE,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,WAAW,CAAC;AAEzC,qBAAa,UAAW,YAAW,gBAAgB;IAC/C,MAAM,CAAC,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,GAAG,IAAI,CAE/C;CACJ"}
